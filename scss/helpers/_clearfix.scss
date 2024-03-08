@@ -1,0 +1,6 @@
+@mixin __clearfix {
+  %clearfix {
+    @include clearfix();
+  }
+
+}
