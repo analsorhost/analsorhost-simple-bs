@@ -24,7 +24,7 @@ npm install analsorhost-simple-bs
 
 ```js
 import "cssmolecule";
-import "custom-bs";
+import "analsorhost-simple-bs";
 // your sass entry point
 import "./scss/main.scss";
 ```
@@ -33,7 +33,7 @@ Alternatively you can also import the files in your sass.
 
 ```scss
 @import "cssmolecule/main.scss";
-@import "custom-bs/scss/bootstrap.scss";
+@import "analsorhost-simple-bs/scss/bootstrap.scss";
 ```
 
 - use it like this
